@@ -1,13 +1,12 @@
-# Calculator App (Java)
+# Calculator Application (Java GUI)
 
-This project is a simple calculator application built using Java.
-It applies basic Object-Oriented Programming (OOP) concepts.
+This project is a Java-based calculator application built using Swing (NetBeans GUI Builder).
 
 ## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
+- Basic arithmetic operations
+- Simple user interface
+- Built using Java OOP principles
 
-## Technologies
+## Tools
 - Java
+- NetBeans
